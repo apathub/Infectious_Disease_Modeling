@@ -1,5 +1,5 @@
 info:
-        @echo "You can compile everything: 'make Test'."
+        @echo "You can compile everything: (make Test) ."
         @echo "You may also use the script to remove the binaries 'make RemoveBin'."
 
 RemoveBin:
