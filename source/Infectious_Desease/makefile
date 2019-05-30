@@ -1,6 +1,6 @@
 info:
         @echo "You can compile everything: (make Test) ."
-        @echo "You may also use the script to remove the binaries 'make RemoveBin'."
+        @echo "You may also use the script to remove the binaries 'make RemoveBin' ."
 
 RemoveBin:
         rm -f Project_lib.o instance.o population.o inoculation.o spreading.o transmition_probability.o main.o
