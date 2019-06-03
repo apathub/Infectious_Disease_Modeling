@@ -13,7 +13,7 @@ For Linux systems (requires g++ compiler)
 3) a summary of the results is given at summary.csv files
 
 For Windows systems go to ./source/
-I have included a solution for visual studio which works with Intel compiler.
+I have included a solution for visual studio
 
 
 Moreover I have a included a file which presents a discussion about the results the program yields (Report.pdf) 
